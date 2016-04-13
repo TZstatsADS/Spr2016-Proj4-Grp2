@@ -2,8 +2,11 @@
 ### Data Analysis-- Amazon Movies Reviews
 ####Team Member 
 Yicheng Wang yw2716
+
 Haoyang Chen hc2812
+
 Xinghao Gu   xg2217
+
 Hexiu Ye     hy2450
 
 Term: Spring 2016
