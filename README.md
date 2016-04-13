@@ -1,6 +1,17 @@
 # Project 4 Collective intelligence
-### Mining Amazon Movies Reviews
+### Data Analysis-- Amazon Movies Reviews
+####Team Member 
+```
+Yicheng Wang yw2716
 
+Haoyang Chen hc2812
+
+Xinghao Gu   xg2217
+
+Hexiu Ye     hy2450
+```
+All the team members have pledged that they all put effort and work for this project. Yicheng Wang is in charge of implementing shiny app and related data analysis. Haoyang Chen is in charge of data cleaning, reading, processing and scrapying data for supporting analysis in general. Xinghao gu and Hexiu Ye are in charge of the implementing data analysis report and related data analysis.
+##### Data Analysis Report
 Term: Spring 2016
 
 In this project, we will explore relational data where the data were collected to have information on a set of individuals and on their relations. Part of the big data hype has been fueled by the availability of the huge amount of online human generated information on social networks, individual rating/preferences on products, opinions and views shared via social media (such as facebook, twitter, etc). Topics in this area include
@@ -10,16 +21,21 @@ In this project, we will explore relational data where the data were collected t
 - Network analysis
 - Identity resolution
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
+#####Shiny App
+The shiny app is a demo presentation for a product of recommendation system. The data is based on the amazon database collected by Stanford University. http://snap.stanford.edu/data/web-Movies.html.
+In terms of the nature and the structure of the dataset itself, the duplication of the data is inevitable. The general problem is that different publised verison of the same movie is categorized as different products while they share the same reviews. On the other hand, we do not have any labels for help distinguishing the same products, the efficiency of data-cleaning and the accuracy of the result will be affected. 
+
+In terms of the shiny app itself, we provide the 
 ```
 proj/
 ├── lib/
 ├── data/
 ├── doc/
 ├── figs/
-└── output/
+├── output/
+└── shiny/
+
 ```
 
-Please see each subfolder for a README file.
 
