@@ -1,0 +1,9 @@
+name: amazon
+account: cks1001652
+server: shinyapps.io
+appId: 94082
+bundleId: 418211
+url: https://cks1001652.shinyapps.io/amazon/
+when: 1460521180.48699
+asMultiple: FALSE
+asStatic: FALSE
