@@ -20,7 +20,9 @@ In this project, we will explore relational data where the data were collected t
 - Network analysis
 - Identity resolution
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+
+
+This folder is orgarnized as follows.
 
 ```
 proj/
@@ -28,8 +30,9 @@ proj/
 ├── data/
 ├── doc/
 ├── figs/
-└── output/
+├── output/
+└── shiny/
+
 ```
 
-Please see each subfolder for a README file.
 
