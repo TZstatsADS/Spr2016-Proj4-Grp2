@@ -17,7 +17,8 @@ Term: Spring 2016
 
 In this project, we explore the Amazon movie data and create a movie recommender Shiny App based on collective filtering. Firstly we read the raw data and conduct basic data analysis. Then we apply sentiment analysis and topic model to the processed data and obtain some interesting results. At last, we create a movie recommender system recommending movies to users according to their preferences.
 
-
+The address is:
+http://rpubs.com/cks1001652/170796
 
 #####Shiny App
 The shiny app is a demo presentation for a product of recommendation system. The data is based on the amazon database collected by Stanford University. http://snap.stanford.edu/data/web-Movies.html.
