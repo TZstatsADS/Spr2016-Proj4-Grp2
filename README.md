@@ -32,6 +32,8 @@ In terms of the shiny app itself, we provide several features:
 To be noticed, due to the heavy computaional work and the limitaion from Amzaon api, we only attach 2 recommendations for the new user categories. The other 117 possibilities will be continued once we get all the data from Amazon api in certain way. For the old user,we demonstrate 2 results as an example. The shiny app will be slowed down dramatically if we upload the whole databased, otherwise we will need to pay for upgrading the shiny sever. In this case, we think the example will be good enough to show our ideas and represent the work behind our shiny app.
 
 Our Shiny app's address is: https://cks1001652.shinyapps.io/amazon/
+
+The folder structure is shown below.
 ```
 proj/
 ├── lib/
