@@ -80,7 +80,7 @@ Thus we create word clouds according to every word’s score for cluster 0 and c
 ![](../figs/cluster1_wordcloud.jpeg)
 
 We also create a bipartite connecting every cluster to the words they contain.
-```{r echo=FALSE}
+```{r echo=FALSE, warning=FALSE}
   # Load package
 library(networkD3)
 library(RColorBrewer)
